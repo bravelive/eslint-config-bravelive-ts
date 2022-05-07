@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-bravelive-ts",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Custom bravelive eslint config with typescript",
   "main": "index.js",
   "scripts": {
