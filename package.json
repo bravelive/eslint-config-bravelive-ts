@@ -1,0 +1,34 @@
+{
+  "name": "eslint-config-bravelive-ts",
+  "version": "1.0.0",
+  "description": "Custom bravelive eslint config with typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bravelive/eslint-config-bravelive-ts.git"
+  },
+  "authors": [
+    {
+      "name": "Jordan S. (Noxi)",
+      "url": "https://twitter.com/uhnoxi"
+    },
+    {
+      "name": "Brave Live",
+      "url": "https://brave.live",
+      "email": "support@brave.live"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bravelive/eslint-config-bravelive-ts/issues"
+  },
+  "homepage": "https://github.com/bravelive/eslint-config-bravelive-ts#readme",
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.22.0",
+    "@typescript-eslint/parser": "^5.22.0",
+    "eslint": "^8.15.0"
+  }
+}
