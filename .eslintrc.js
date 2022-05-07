@@ -15,7 +15,7 @@ module.exports = {
     "@typescript-eslint/quotes": ["error", "double", { "allowTemplateLiterals": true }],
     "@typescript-eslint/ban-ts-comment": "error",
     "no-unused-vars": "off",
-    "@typescript-eslint/no-unused-vars": "error",
+    "@typescript-eslint/no-unused-vars": 0,
     "lines-between-class-members": "off",
     "@typescript-eslint/lines-between-class-members": ["error", "always", { "exceptAfterOverload": false }],
     "@typescript-eslint/no-explicit-any": "error",
